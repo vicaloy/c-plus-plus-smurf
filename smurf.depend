@@ -1,0 +1,491 @@
+# depslib dependency file v1.0
+1512525948 source:c:\users\toshiba\desktop\smurf\main.cpp
+	<stdio.h>
+	"menu.h"
+	"arbolmagos.h"
+	"mago.h"
+	"habilidad.h"
+	"listahab.h"
+
+1506638573 source:c:\users\toshiba\desktop\smurf\boolean.cpp
+	<stdio.h>
+	"boolean.h"
+
+1506638573 c:\users\toshiba\desktop\smurf\boolean.h
+
+1512333043 source:c:\users\toshiba\desktop\smurf\stringdinamico.cpp
+	"stringdinamico.h"
+	<stdio.h>
+
+1509139677 c:\users\toshiba\desktop\smurf\stringdinamico.h
+	"boolean.h"
+
+1512522643 source:c:\users\toshiba\desktop\smurf\fecha.cpp
+	<stdio.h>
+	"fecha.h"
+
+1512522643 c:\users\toshiba\desktop\smurf\fecha.h
+	<stdio.h>
+	"boolean.h"
+
+1512334482 source:c:\users\toshiba\desktop\smurf\categoriamagica.cpp
+	<stdio.h>
+	"categoriamagica.h"
+
+1512334386 c:\users\toshiba\desktop\smurf\categoriamagica.h
+
+1512518831 source:c:\users\toshiba\desktop\smurf\mago.cpp
+	"mago.h"
+	"stdio.h"
+
+1512342926 c:\users\toshiba\desktop\smurf\mago.h
+	"stringdinamico.h"
+	"fecha.h"
+	"categoriamagica.h"
+	"boolean.h"
+
+1512520765 source:c:\users\toshiba\desktop\smurf\arbolmagos.cpp
+	<stdio.h>
+	"arbolmagos.h"
+
+1512520814 c:\users\toshiba\desktop\smurf\arbolmagos.h
+	"mago.h"
+	"listahab.h"
+
+1512341943 source:c:\users\toshiba\desktop\smurf\tipohabilidad.cpp
+	<stdio.h>
+	"tipohabilidad.h"
+
+1512340978 c:\users\toshiba\desktop\smurf\tipohabilidad.h
+
+1512522489 source:c:\users\toshiba\desktop\smurf\habilidad.cpp
+	"habilidad.h"
+	"stdio.h"
+
+1512352395 c:\users\toshiba\desktop\smurf\habilidad.h
+	"stringdinamico.h"
+	"fecha.h"
+	"tipohabilidad.h"
+
+1512525089 source:c:\users\toshiba\desktop\smurf\listahab.cpp
+	<stdio.h>
+	"listahab.h"
+
+1512525008 c:\users\toshiba\desktop\smurf\listahab.h
+	"habilidad.h"
+	"boolean.h"
+
+1512352618 source:c:\users\toshiba\desktop\smurf\menu.cpp
+	<stdio.h>
+	"menu.h"
+
+1512347699 c:\users\toshiba\desktop\smurf\menu.h
+
+1512360958 source:c:\users\java\downloads\smurf\arbolmagos.cpp
+	<stdio.h>
+	"arbolmagos.h"
+
+1512359627 c:\users\java\downloads\smurf\arbolmagos.h
+	"mago.h"
+
+1512346526 c:\users\java\downloads\smurf\mago.h
+	"stringdinamico.h"
+	"fecha.h"
+	"categoriamagica.h"
+	"boolean.h"
+
+1509143277 c:\users\java\downloads\smurf\stringdinamico.h
+	"boolean.h"
+
+1506638573 c:\users\java\downloads\smurf\boolean.h
+
+1512360204 c:\users\java\downloads\smurf\fecha.h
+	<stdio.h>
+	"boolean.h"
+
+1512337986 c:\users\java\downloads\smurf\categoriamagica.h
+
+1506638573 source:c:\users\java\downloads\smurf\boolean.cpp
+	<stdio.h>
+	"boolean.h"
+
+1512338082 source:c:\users\java\downloads\smurf\categoriamagica.cpp
+	<stdio.h>
+	"categoriamagica.h"
+
+1512360170 source:c:\users\java\downloads\smurf\fecha.cpp
+	<stdio.h>
+	"fecha.h"
+
+1512355995 source:c:\users\java\downloads\smurf\habilidad.cpp
+	"habilidad.h"
+	"stdio.h"
+
+1512355995 c:\users\java\downloads\smurf\habilidad.h
+	"stringdinamico.h"
+	"fecha.h"
+	"tipohabilidad.h"
+
+1512344578 c:\users\java\downloads\smurf\tipohabilidad.h
+
+1512346525 source:c:\users\java\downloads\smurf\mago.cpp
+	"mago.h"
+	"stdio.h"
+
+1512356218 source:c:\users\java\downloads\smurf\menu.cpp
+	<stdio.h>
+	"menu.h"
+
+1512351299 c:\users\java\downloads\smurf\menu.h
+
+1512336643 source:c:\users\java\downloads\smurf\stringdinamico.cpp
+	"stringdinamico.h"
+	<stdio.h>
+
+1512345543 source:c:\users\java\downloads\smurf\tipohabilidad.cpp
+	<stdio.h>
+	"tipohabilidad.h"
+
+1512513138 source:c:\users\java\downloads\smurf\listahab.cpp
+	<stdio.h>
+	"listahab.h"
+
+1512361002 c:\users\java\downloads\smurf\listahab.h
+	"habilidad.h"
+
+1512512830 source:c:\users\java\downloads\smurf\main.cpp
+	<stdio.h>
+	"menu.h"
+	"arbolmagos.h"
+	"mago.h"
+	"habilidad.h"
+	"listahab.h"
+
+1512525940 source:c:\users\toshiba\desktop\smurf\files.cpp
+	"files.h"
+	"stringdinamico.h"
+	"fecha.h"
+	"categoriamagica.h"
+	"boolean.h"
+	<stdio.h>
+
+1512525856 c:\users\toshiba\desktop\smurf\files.h
+	"stringdinamico.h"
+	"fecha.h"
+	"categoriamagica.h"
+	"boolean.h"
+	<stdio.h>
+
+1513043654 source:h:\documentos\ude\diapositivas\p2\smurf\smurf\arbolmagos.cpp
+	<stdio.h>
+	"arbolmagos.h"
+
+1512524416 h:\documentos\ude\diapositivas\p2\smurf\smurf\arbolmagos.h
+	"mago.h"
+	"listahab.h"
+
+1513046341 h:\documentos\ude\diapositivas\p2\smurf\smurf\mago.h
+	"stringdinamico.h"
+	"fecha.h"
+	"categoriamagica.h"
+	"boolean.h"
+
+1509143278 h:\documentos\ude\diapositivas\p2\smurf\smurf\stringdinamico.h
+	"boolean.h"
+
+1506638574 h:\documentos\ude\diapositivas\p2\smurf\smurf\boolean.h
+
+1513043980 h:\documentos\ude\diapositivas\p2\smurf\smurf\fecha.h
+	<stdio.h>
+	"boolean.h"
+
+1512337988 h:\documentos\ude\diapositivas\p2\smurf\smurf\categoriamagica.h
+
+1512762017 h:\documentos\ude\diapositivas\p2\smurf\smurf\listahab.h
+	"habilidad.h"
+	"boolean.h"
+
+1513046809 h:\documentos\ude\diapositivas\p2\smurf\smurf\habilidad.h
+	"stringdinamico.h"
+	"fecha.h"
+	"tipohabilidad.h"
+
+1512344580 h:\documentos\ude\diapositivas\p2\smurf\smurf\tipohabilidad.h
+
+1512929295 source:h:\documentos\ude\diapositivas\p2\smurf\smurf\boolean.cpp
+	<stdio.h>
+	"boolean.h"
+
+1512929267 source:h:\documentos\ude\diapositivas\p2\smurf\smurf\categoriamagica.cpp
+	<stdio.h>
+	"categoriamagica.h"
+
+1513044145 source:h:\documentos\ude\diapositivas\p2\smurf\smurf\fecha.cpp
+	<stdio.h>
+	"fecha.h"
+
+1513046867 source:h:\documentos\ude\diapositivas\p2\smurf\smurf\files.cpp
+	"files.h"
+	"stringdinamico.h"
+	"fecha.h"
+	"categoriamagica.h"
+	"mago.h"
+	"habilidad.h"
+	"boolean.h"
+	"listahab.h"
+	<stdio.h>
+
+1512955712 h:\documentos\ude\diapositivas\p2\smurf\smurf\files.h
+	"stringdinamico.h"
+	"fecha.h"
+	"categoriamagica.h"
+	"boolean.h"
+	"mago.h"
+	"habilidad.h"
+	"listahab.h"
+	"arbolmagos.h"
+	<stdio.h>
+
+1513046838 source:h:\documentos\ude\diapositivas\p2\smurf\smurf\habilidad.cpp
+	"habilidad.h"
+	"stdio.h"
+
+1513046998 source:h:\documentos\ude\diapositivas\p2\smurf\smurf\listahab.cpp
+	<stdio.h>
+	"listahab.h"
+
+1513046426 source:h:\documentos\ude\diapositivas\p2\smurf\smurf\mago.cpp
+	"mago.h"
+	"stdio.h"
+
+1513043074 source:h:\documentos\ude\diapositivas\p2\smurf\smurf\main.cpp
+	<stdio.h>
+	"menu.h"
+	"arbolmagos.h"
+	"mago.h"
+	"habilidad.h"
+	"listahab.h"
+	"files.h"
+
+1512351300 h:\documentos\ude\diapositivas\p2\smurf\smurf\menu.h
+
+1512356220 source:h:\documentos\ude\diapositivas\p2\smurf\smurf\menu.cpp
+	<stdio.h>
+	"menu.h"
+
+1512927940 source:h:\documentos\ude\diapositivas\p2\smurf\smurf\stringdinamico.cpp
+	"stringdinamico.h"
+	<stdio.h>
+
+1512927718 source:h:\documentos\ude\diapositivas\p2\smurf\smurf\tipohabilidad.cpp
+	<stdio.h>
+	"tipohabilidad.h"
+
+1512683434 source:c:\users\java\desktop\smurf\arbolmagos.cpp
+	<stdio.h>
+	"arbolmagos.h"
+
+1512524416 c:\users\java\desktop\smurf\arbolmagos.h
+	"mago.h"
+	"listahab.h"
+
+1512346528 c:\users\java\desktop\smurf\mago.h
+	"stringdinamico.h"
+	"fecha.h"
+	"categoriamagica.h"
+	"boolean.h"
+
+1509143278 c:\users\java\desktop\smurf\stringdinamico.h
+	"boolean.h"
+
+1506638574 c:\users\java\desktop\smurf\boolean.h
+
+1512526244 c:\users\java\desktop\smurf\fecha.h
+	<stdio.h>
+	"boolean.h"
+
+1512337988 c:\users\java\desktop\smurf\categoriamagica.h
+
+1512528610 c:\users\java\desktop\smurf\listahab.h
+	"habilidad.h"
+	"boolean.h"
+
+1512355996 c:\users\java\desktop\smurf\habilidad.h
+	"stringdinamico.h"
+	"fecha.h"
+	"tipohabilidad.h"
+
+1512344580 c:\users\java\desktop\smurf\tipohabilidad.h
+
+1506638574 source:c:\users\java\desktop\smurf\boolean.cpp
+	<stdio.h>
+	"boolean.h"
+
+1512338084 source:c:\users\java\desktop\smurf\categoriamagica.cpp
+	<stdio.h>
+	"categoriamagica.h"
+
+1512526244 source:c:\users\java\desktop\smurf\fecha.cpp
+	<stdio.h>
+	"fecha.h"
+
+1512526090 source:c:\users\java\desktop\smurf\habilidad.cpp
+	"habilidad.h"
+	"stdio.h"
+
+1512683226 source:c:\users\java\desktop\smurf\listahab.cpp
+	<stdio.h>
+	"listahab.h"
+
+1512522432 source:c:\users\java\desktop\smurf\mago.cpp
+	"mago.h"
+	"stdio.h"
+
+1512686812 source:c:\users\java\desktop\smurf\main.cpp
+	<stdio.h>
+	"menu.h"
+	"arbolmagos.h"
+	"mago.h"
+	"habilidad.h"
+	"listahab.h"
+	"files.h"
+
+1512351300 c:\users\java\desktop\smurf\menu.h
+
+1512356220 source:c:\users\java\desktop\smurf\menu.cpp
+	<stdio.h>
+	"menu.h"
+
+1512687299 source:c:\users\java\desktop\smurf\stringdinamico.cpp
+	"stringdinamico.h"
+	<stdio.h>
+
+1512345544 source:c:\users\java\desktop\smurf\tipohabilidad.cpp
+	<stdio.h>
+	"tipohabilidad.h"
+
+1512524366 source:h:\documentos\ude\diapositivas\p2\smurf\victoria\smurf\arbolmagos.cpp
+	<stdio.h>
+	"arbolmagos.h"
+
+1512524416 h:\documentos\ude\diapositivas\p2\smurf\victoria\smurf\arbolmagos.h
+	"mago.h"
+	"listahab.h"
+
+1512346528 h:\documentos\ude\diapositivas\p2\smurf\victoria\smurf\mago.h
+	"stringdinamico.h"
+	"fecha.h"
+	"categoriamagica.h"
+	"boolean.h"
+
+1509143278 h:\documentos\ude\diapositivas\p2\smurf\victoria\smurf\stringdinamico.h
+	"boolean.h"
+
+1506638574 h:\documentos\ude\diapositivas\p2\smurf\victoria\smurf\boolean.h
+
+1512526244 h:\documentos\ude\diapositivas\p2\smurf\victoria\smurf\fecha.h
+	<stdio.h>
+	"boolean.h"
+
+1512337988 h:\documentos\ude\diapositivas\p2\smurf\victoria\smurf\categoriamagica.h
+
+1512528610 h:\documentos\ude\diapositivas\p2\smurf\victoria\smurf\listahab.h
+	"habilidad.h"
+	"boolean.h"
+
+1512355996 h:\documentos\ude\diapositivas\p2\smurf\victoria\smurf\habilidad.h
+	"stringdinamico.h"
+	"fecha.h"
+	"tipohabilidad.h"
+
+1512344580 h:\documentos\ude\diapositivas\p2\smurf\victoria\smurf\tipohabilidad.h
+
+1506638574 source:h:\documentos\ude\diapositivas\p2\smurf\victoria\smurf\boolean.cpp
+	<stdio.h>
+	"boolean.h"
+
+1512338084 source:h:\documentos\ude\diapositivas\p2\smurf\victoria\smurf\categoriamagica.cpp
+	<stdio.h>
+	"categoriamagica.h"
+
+1512526244 source:h:\documentos\ude\diapositivas\p2\smurf\victoria\smurf\fecha.cpp
+	<stdio.h>
+	"fecha.h"
+
+1512526090 source:h:\documentos\ude\diapositivas\p2\smurf\victoria\smurf\habilidad.cpp
+	"habilidad.h"
+	"stdio.h"
+
+1512658010 source:h:\documentos\ude\diapositivas\p2\smurf\victoria\smurf\listahab.cpp
+	<stdio.h>
+	"listahab.h"
+
+1512522432 source:h:\documentos\ude\diapositivas\p2\smurf\victoria\smurf\mago.cpp
+	"mago.h"
+	"stdio.h"
+
+1512678400 source:h:\documentos\ude\diapositivas\p2\smurf\victoria\smurf\main.cpp
+	<stdio.h>
+	"menu.h"
+	"arbolmagos.h"
+	"mago.h"
+	"habilidad.h"
+	"listahab.h"
+	"files.h"
+
+1512351300 h:\documentos\ude\diapositivas\p2\smurf\victoria\smurf\menu.h
+
+1512356220 source:h:\documentos\ude\diapositivas\p2\smurf\victoria\smurf\menu.cpp
+	<stdio.h>
+	"menu.h"
+
+1512336644 source:h:\documentos\ude\diapositivas\p2\smurf\victoria\smurf\stringdinamico.cpp
+	"stringdinamico.h"
+	<stdio.h>
+
+1512345544 source:h:\documentos\ude\diapositivas\p2\smurf\victoria\smurf\tipohabilidad.cpp
+	<stdio.h>
+	"tipohabilidad.h"
+
+1512676091 source:h:\documentos\ude\diapositivas\p2\smurf\victoria\smurf\files.cpp
+	"files.h"
+	"stringdinamico.h"
+	"fecha.h"
+	"categoriamagica.h"
+	"mago.h"
+	"habilidad.h"
+	"boolean.h"
+	<stdio.h>
+
+1512678350 h:\documentos\ude\diapositivas\p2\smurf\victoria\smurf\files.h
+	"stringdinamico.h"
+	"fecha.h"
+	"categoriamagica.h"
+	"boolean.h"
+	"mago.h"
+	"habilidad.h"
+	<stdio.h>
+
+1512686812 source:c:\users\java\desktop\smurf\files.cpp
+	"files.h"
+	"stringdinamico.h"
+	"fecha.h"
+	"categoriamagica.h"
+	"mago.h"
+	"habilidad.h"
+	"boolean.h"
+	"listahab.h"
+	<stdio.h>
+	<string>
+
+1512686812 c:\users\java\desktop\smurf\files.h
+	"stringdinamico.h"
+	"fecha.h"
+	"categoriamagica.h"
+	"boolean.h"
+	"mago.h"
+	"habilidad.h"
+	"listahab.h"
+	<stdio.h>
+	<string>
+
